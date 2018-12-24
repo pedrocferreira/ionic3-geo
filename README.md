@@ -1,12 +1,5 @@
-##This is a quick example of Ionic 3 app which use
-##Geolocation
-##GoogleMaps
-##Native Geolocoder
+Executar o projeto 
 
-Nothing fancy in it
-
-[GeoLocation Plugin] (https://ionicframework.com/docs/native/geolocation/)
-
-[GoogleMap plugin] (https://ionicframework.com/docs/native/google-maps/)
-
-[Native Geocoder Plugin] (https://ionicframework.com/docs/native/native-geocoder/)
+execute -npm install
+    -ionic add platform android
+    -ionic run android 
